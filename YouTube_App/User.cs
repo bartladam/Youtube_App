@@ -10,16 +10,17 @@ namespace YouTube_App
     {
         public string Email { get; private set; }
         public string Password { get; private set; }
-        private Website website { get; set; }
+        private Server server { get; set; }
         public User(string email, string password, Server server)
         {
             this.Email = email;
             this.Password = password;
-            this.website = website;
+            this.server = server;
         }
-        public string OpenWebsite()
+        public void OpenWebsite()
         {
-            return "";
+            Website web = server.RequestedWeb();
+            web.WebsiteInterface();
         }
         
     }

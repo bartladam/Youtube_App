@@ -10,7 +10,7 @@ namespace YouTube_App
     {
         string Email { get; }
         string Password { get; }
-        string OpenWebsite();
+        void OpenWebsite();
 
     }
 }

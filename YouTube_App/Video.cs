@@ -10,7 +10,7 @@ namespace YouTube_App
     {
         public string nameVideo { get; private set; }
         public string description { get; private set; }
-        public enum topicVideo { document, funny, gamming, news, information, investment}
+        public enum topicVideo {document,funny, gamming,news,investment}
         public topicVideo topic { get; private set; }
         public TimeSpan ts { get; private set; }
         public string URL { get; init; }
@@ -24,9 +24,19 @@ namespace YouTube_App
             URL = "https://www.youtube.com/watch?";
             comments = new List<Comments>();
         }
-        public void AddComment(string text)
+        public string AddComment(string text)
         {
             comments.Add(new Comments(text));
+            return string.Format("Comment added below video");
+        }
+        public string ListComments()
+        {
+            string AllComments = "";
+            foreach (Comments item in comments)
+            {
+                AllComments += item + "\n";
+            }
+            return AllComments;
         }
 
     }

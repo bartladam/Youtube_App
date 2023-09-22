@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\YouTube_App\YouTube_App\bin\Debug\net7.0\YouTube_App.exe
+D:\Visual Studio Projects\YouTube_App\YouTube_App\bin\Debug\net7.0\YouTube_App.deps.json
+D:\Visual Studio Projects\YouTube_App\YouTube_App\bin\Debug\net7.0\YouTube_App.runtimeconfig.json
+D:\Visual Studio Projects\YouTube_App\YouTube_App\bin\Debug\net7.0\YouTube_App.dll
+D:\Visual Studio Projects\YouTube_App\YouTube_App\bin\Debug\net7.0\YouTube_App.pdb
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.AssemblyInfo.cs
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.dll
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\refint\YouTube_App.dll
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.pdb
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\YouTube_App.genruntimeconfig.cache
+D:\Visual Studio Projects\YouTube_App\YouTube_App\obj\Debug\net7.0\ref\YouTube_App.dll

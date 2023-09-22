@@ -15,6 +15,10 @@ namespace YouTube_App
             this.textComment = textComment;
             this.timeSharedComment = DateTime.Now;
         }
+        public override string ToString()
+        {
+            return string.Format("{0}\n{1}\n", timeSharedComment.ToShortDateString(), textComment);
+        }
 
     }
 }
