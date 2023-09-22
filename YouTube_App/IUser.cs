@@ -8,5 +8,9 @@ namespace YouTube_App
 {
     internal interface IUser
     {
+        string Email { get; }
+        string Password { get; }
+        string OpenWebsite();
+
     }
 }
